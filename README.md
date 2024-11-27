@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>-->
 
 <h1>Hola, soy Daniel 🎴</h1>
 
@@ -11,8 +11,8 @@
 
 ## Uno que otro proyecto ☁️
 <ul>
-  <li><a href="https://github.com/danlevil/Golang_LanguageAnalyzer">Golang_LanguageAnalyzer </a> Analizador léxico, sintáctico y semántico para en lenguaje Golang.</li>
-  <li><a href="https://github.com/danlevil/landing">Landing Page  </a>Un newsletter sobre el 'Eras Tour' (Quería hacer sonreir a mi novia, sí funcionó)</li>
+  <li><a href="https://github.com/danlevil/Golang_LanguageAnalyzer">Golang_LanguageAnalyzer </a> Analizador léxico, sintáctico y semántico para en lenguaje Golang. Utilizando Python y la libreria PLY</li>
+  <li><a href="https://github.com/danlevil/landing">Landing Page  </a>Un newsletter sobre el 'Eras Tour'. Utilizando Bootstrap y JS (Quería hacer sonreir a mi novia, sí funcionó)</li>
   <li><a href="https://github.com/danlevil/ED-G10-PROYECTO">Registro de Visitas para urbanización  </a> Software creado con Java y Scene Builder</li>
 </ul>
 
@@ -43,4 +43,4 @@
     alt="danlevil" /> 
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>-->
