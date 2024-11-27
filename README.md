@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
-<h1>Hola soy Daniel Villamar 🎴</h1>
+<h1>Hola soy Daniel 🎴</h1>
 
 ## Sobre mi
  <p> Disfruto mucho de los problemas de lógica, construir una secuencia de pasos para llegar a una solución, separar metódicamente un problema en partes más pequeñas. Por eso estudio computación. </p>
