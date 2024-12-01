@@ -1,4 +1,4 @@
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
 
 <h1>Hola, soy Daniel 🎴</h1>
 
@@ -43,4 +43,4 @@
     alt="danlevil" /> 
 </p>
 
-<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>-->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B68EE&height=120&section=header"/>
